@@ -1,10 +1,14 @@
-Evaluación 2 - Cine
+## Evaluación 2 - Cine
 Universidad: UNIVERSIDAD POLITÉCNICA TERRITORIAL DEL ESTADO ARAGUA - "FEDERICO BRITO FIGUEROA"
-Carrera: Ingeniería de Sistemas
-Integrantes:
+
+## Carrera: Ingeniería de Sistemas
+
+## Integrantes:
 RICARDO ALEJANDRO MEJIAS BARRIOS
 SARAH NATHALY REQUENA ROSALES
-Enunciado Asignado:
+
+## Enunciado Asignado:
+
 Enunciado 6: Cine - Relación (Padre -> 
 Hijo) -Director-> Películas | Campos Mínimos (Tabla Hija) + 
 Validación - titulo (required), duracion (integer), 
