@@ -17,7 +17,7 @@ estreno (after:today).
 Descripción del Proyecto
 Aplicación web desarrollada en **Laravel 12** que implementa un CRUD completo para gestionar **películas** y **directores**, con relación de uno a muchos. Incluye validaciones, protección CSRF, mensajes flash y una mejora que permite **agregar un nuevo director directamente desde el formulario** de película, con autocompletado de nombres existentes.
 
-Instrucciones de Ejecución
+## Instrucciones de Ejecución:
 
 ## 1. Clonar el repositorio
 git clone https://github.com/Ricard0MB/Evaluacion2-P-MejiasRicardo-ReqenaSarah.git
